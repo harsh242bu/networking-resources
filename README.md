@@ -1,10 +1,18 @@
 # networking-resources
 
 ## Why is networking important
-Coming soon...
+Watch the following YouTube video to get a better understanding of the job market right now: [If Everyone Is Hiring, Why Can Nobody Get A Job?](https://www.youtube.com/watch?v=HWXmfrXNwqw)
+
+More details coming soon...
 
 ## How to network and socialize 
 Coming soon...
+
+## AI Newsletters
+- [AlphaSignal](https://alphasignal.ai/)
+- [Last week in AI](https://lastweekin.ai/)
+- [The Batch (DeepLearning.AI)](https://www.deeplearning.ai/the-batch/)
+- [Davis Summarizes Papers](https://dblalock.substack.com/)
 
 ## Tech Conferences in US
 
@@ -18,6 +26,7 @@ Coming soon...
 - [India Conference at Harvard](https://indiaconferenceharvard.com/)
 - [Robotics Summit and Expo](https://www.roboticssummit.com/)
 - [MLOPS World](https://mlopsworld.com/)
+- [RAY SUMMIT](https://raysummit.anyscale.com/flow/anyscale/raysummit2024/landing/page/eventsite)
 
 ## Networking meetups in Boston
 Here's a list of networking meetups (in no particular order) recommended by me and other professionals in Boston
