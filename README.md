@@ -1,4 +1,5 @@
 # networking-resources
+As the name suggests, this repository contains networking resources in tech including list of conferences, meetups, and newsletters. 
 
 ## Why is networking important
 Watch the following YouTube video to get a better understanding of the job market right now: [If Everyone Is Hiring, Why Can Nobody Get A Job?](https://www.youtube.com/watch?v=HWXmfrXNwqw)
