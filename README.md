@@ -46,6 +46,7 @@ Here's a list of networking meetups (in no particular order) recommended by me a
 	- https://gdg.community.dev/gdg-boston-android/
 
 Signup on [Meetup](https://www.meetup.com/) and keep looking for meetups around Boston. There are always loads of them and it's really good to talk to random people about Tech. Remember that networking is a by-product of talking to people and is not the main goal, because it is so obvious and plastic when you're just talking to the person for their LinkedIn connection.
+Credits: [Harsh Kapadia](https://github.com/HarshKapadia2)
 
 ## Social meetups in Boston
 Here's a list of social meetups in Boston.
